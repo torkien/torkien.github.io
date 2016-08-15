@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "路漫漫其修远兮，吾将上下而求索。"
-sidebar-avatar: natu-chimian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/natu-chimian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
